@@ -31,7 +31,10 @@ exit(0);}
 ```
 -rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
 ```
-## 2.To Write a C program that illustrates files locking```
+
+
+## 2.To Write a C program that illustrates files locking
+```
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
